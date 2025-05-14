@@ -11,7 +11,7 @@ name = "IZNA Relay"
 description = "A newly created nostr-rs-relay.\n\nCustomize this with your own info."
 
 # Administrative contact pubkey (32-byte hex, not npub)
-pubkey = "4a2d800724cd7f4211e1d817fdab4d9e02f9e6aba00dd3f1dc4621be6fc10f92"
+pubkey = "34f4dd10766832cd7ab17f1c4b3d8c763b6310f45ddc3af690caaa7bd3decda4"
 
 # Administrative contact URI
 contact = "mailto:admin@izna.us"
